@@ -1,8 +1,11 @@
 # Ignore everything
 *
 
-# Except these folders and files
+# But keep these files and folders
 !.gitignore
 !README.md
 !Participation/
+!Participation/**
+
 !MasteryProjects/
+!MasteryProjects/**
